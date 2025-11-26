@@ -1,0 +1,13 @@
+timestamp,user_id,text,Pre_processed_text,severity,risk_level
+2025-09-20 05:16:55.964656,user123,i am going to kill myself😞,going kill disappointed,0.7715983986854553,Low
+2025-10-14 08:33:00.270337,user123,hey,hey,0.48623350262641907,Low
+2025-10-14 08:34:38.894053,user123,i am good at work,good work,0.23624160885810852,Low
+2025-10-14 08:34:47.690963,user123,i am not good in work,good work,0.23624160885810852,Low
+2025-10-14 08:36:00.637614,user123,my boss is so rude,boss rude,0.754802942276001,Low
+2025-10-15 06:48:42.027597,user123,hey,hey,0.48623350262641907,Low
+2025-10-15 06:49:12.623090,user123,hey,hey,0.48623350262641907,Low
+2025-10-15 06:49:44.806945,user123,i am good at work,good work,0.23624160885810852,Low
+2025-10-15 06:49:50.263887,user123,my boss is not good,boss good,0.3197135329246521,Low
+2025-10-15 07:03:37.323559,user123,how are you?,,0.4897880256175995,Low
+2025-10-15 07:04:02.810744,user123,I am having fight with my wife,fight wife,0.5334111452102661,Low
+2025-10-15 07:04:38.943281,user123,I am parents don't like me,parents like,0.4746580719947815,Low
