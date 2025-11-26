@@ -53,6 +53,9 @@ The sentiment analysis pipeline achieves:
 
 ## Key Results
 - 5:1 reduction in false positives compared to document-level analysis
-- 1 AM identified as peak hour for mental health crises
+- 1 AM is identified as the peak hour for mental health crises
 - Clear separation between Low/Moderate/High/Critical risk levels
+
+## Note:
+- Due to file size, I could not upload the whole file, so here is the link to all file: https://drive.google.com/file/d/1Hpl2mTLASaKmwHrZ0H71bLrhbBgOtfDG/view?usp=sharing
 
