@@ -38,8 +38,3 @@ This project develops a fine-grained, sentence-level approach to mental health c
 - pip install translatepy==2.3
 - pip install contractions==0.1.73
 
-### Setup
- **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/mental-health-crisis-detection.git
-   cd mental-health-crisis-detection
