@@ -1,4 +1,4 @@
-# Mental Health Crisis Detection from Social Media Text
+# Early Detection of Mental Health Symptoms via Social Media Text Analysis
 
 A sentence-level analysis pipeline for detecting and quantifying emotional distress in social media posts using transformer-based sentiment analysis and psychological principles.
 
