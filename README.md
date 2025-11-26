@@ -38,3 +38,21 @@ This project develops a fine-grained, sentence-level approach to mental health c
 - pip install translatepy==2.3
 - pip install contractions==0.1.73
 
+## Setup
+ **Clone the repository**
+   ```bash
+   git clone https://github.com/Rawbeenprajapati/Early-Detection-of-Mental-Health-Symptoms-via-Social-Media-Text-Analysis.git
+```
+
+## Model Performance
+The sentiment analysis pipeline achieves:
+- Overall Accuracy: 86%
+- Negative Sentiment F1-Score: 0.90
+- Precision (Crisis Detection): 0.87
+- Recall (Crisis Detection): 0.89
+
+## Key Results
+- 5:1 reduction in false positives compared to document-level analysis
+- 1 AM identified as peak hour for mental health crises
+- Clear separation between Low/Moderate/High/Critical risk levels
+
